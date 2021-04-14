@@ -15,7 +15,7 @@ return (
             {count}
         </div>
         <img 
-            src={ship}
+            src='https://github.com/joannezeng/E1T1MPassignment5/blob/main/shipClipart.png?raw=true'
             alt="ship" 
             style={rotate} 
             onClick={() => {
